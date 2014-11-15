@@ -32,7 +32,7 @@
   <preference name="StatusBarBackgroundColor" value="#2c3e50" />
 
 	
-    <icon src="res/icon/android/icon-96-xhdpi.png" />
+    <icon src="icon.png" />
 
   <icon src="res/icon/android/icon-36-ldpi.png"   platform="android"    density="ldpi" />
   <icon src="res/icon/android/icon-48-mdpi.png"   platform="android"    density="mdpi" />
